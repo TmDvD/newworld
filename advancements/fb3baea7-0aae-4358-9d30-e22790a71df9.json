@@ -7696,5 +7696,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_grate": "2025-12-26 13:50:39 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
